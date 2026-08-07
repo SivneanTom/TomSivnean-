@@ -16,16 +16,14 @@ I love coding , hard working , motivation , researching
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend and Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring boot" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,springboot" />
 </p>
 
-### 🗄️ Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,xampp,data gript" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,xampp,datagript" />
 </p>
 
 ### Programming
@@ -37,7 +35,7 @@ I love coding , hard working , motivation , researching
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,intellij,vscode,postman,docker,swangger" />
+  <img src="https://skillicons.dev/icons?i=git,github,intellije,vscode,postman,docker,swangger" />
 </p>
 
 ---
