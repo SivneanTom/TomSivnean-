@@ -1,9 +1,7 @@
 # Hi there 👋 I am Tom Sivnean
 
 I'm a passionate **Backend Developer** who enjoys building web applications, backend systems, APIs, and database-driven applications.
-
 I enjoy working with modern web technologies and continuously improving my skills in backend and full-stack development.
-
 I love coding , hard working , motivation , researching 
 
 ---
@@ -22,7 +20,7 @@ I love coding , hard working , motivation , researching
   <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgresql" />
 </p>
 
-### Programming
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,c,cpp" />
@@ -46,20 +44,3 @@ I love coding , hard working , motivation , researching
 - 🚀 My goal is to become a professional Full-Stack Developer
 
 ---
-
-## What I Build
-
-- Web Management Systems
-- RESTful APIs
-- Authentication & Authorization Systems
-- Admin Dashboards
-- CRUD Applications
-- Database Management Systems
-
----
-
-
-## Contact
-- Email: mar456992@example.com  
-- LinkedIn: [Your LinkedIn Profile](ca://s?q=Create_LinkedIn_profile_for_developer)  
-- Location: Phnom Penh, Cambodia 
