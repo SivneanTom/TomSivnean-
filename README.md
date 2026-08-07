@@ -1,62 +1,110 @@
-# 🚀 My Backend Portfolio
+# Hi there 👋
 
-Welcome! This repo showcases my backend development skills using **Spring Boot**, **Laravel**, **PostgreSQL**, and **Docker**.
+I'm a passionate **PHP Developer** who enjoys building web applications, backend systems, APIs, and database-driven applications.
+
+I enjoy working with modern web technologies and continuously improving my skills in backend and full-stack development.
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠️ Skills & Technologies
 
 ### 🌐 Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react" />
 </p>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </p>
 
-### 💼 Tools & Platforms
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60"/>
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
----
+### 🧠 Programming
 
-## 📂 Featured Projects
-- **Spring Boot Member API** → CRUD API with PostgreSQL & Docker  
-- **Laravel Member API** → RESTful API with Authentication & PostgreSQL  
-- **Dockerized Portfolio** → Multi-service setup with Docker Compose  
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,c,cpp" />
+</p>
 
----
+### 🧰 Tools & Platforms
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" height="150"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
 
-## 📫 Contact
-- Email: yourname@example.com  
-- LinkedIn: [Your LinkedIn Profile](ca://s?q=Create_LinkedIn_profile_for_developer)  
-- Location: Phnom Penh, Cambodia  
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on PHP and Laravel web applications
+- 🌱 I'm currently learning advanced backend development and REST APIs
+- 💻 I enjoy building CRUD systems, authentication systems, dashboards, and management systems
+- 🗄️ I work with MySQL and PostgreSQL databases
+- 🤝 I'm interested in collaborating on web development projects
+- 🚀 My goal is to become a professional Full-Stack Developer
+
+---
+
+## 🚀 What I Build
+
+- Web Management Systems
+- RESTful APIs
+- Authentication & Authorization Systems
+- Admin Dashboards
+- CRUD Applications
+- Database Management Systems
+- Responsive Websites
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"
+    height="170"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 Code • Learn • Build • Improve 🚀
+</p>
