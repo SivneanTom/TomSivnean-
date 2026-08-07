@@ -19,7 +19,7 @@ I love coding , hard working , motivation , researching
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,springboot,mysql,postgresql,xampp,datagript" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgresql" />
 </p>
 
 ### Programming
