@@ -1,32 +1,34 @@
-# Hi there 👋
+# Hi there 👋 I am Tom Sivnean
 
-I'm a passionate **PHP Developer** who enjoys building web applications, backend systems, APIs, and database-driven applications.
+I'm a passionate **Backend Developer** who enjoys building web applications, backend systems, APIs, and database-driven applications.
 
 I enjoy working with modern web technologies and continuously improving my skills in backend and full-stack development.
 
+I love coding , hard working , motivation , researching 
+
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring boot" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,xampp,data gript" />
 </p>
 
-### 🧠 Programming
+### Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,c,cpp" />
@@ -35,7 +37,7 @@ I enjoy working with modern web technologies and continuously improving my skill
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,intellij,vscode,postman,docker,swangger" />
 </p>
 
 ---
@@ -51,7 +53,7 @@ I enjoy working with modern web technologies and continuously improving my skill
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - Web Management Systems
 - RESTful APIs
@@ -59,52 +61,11 @@ I enjoy working with modern web technologies and continuously improving my skill
 - Admin Dashboards
 - CRUD Applications
 - Database Management Systems
-- Responsive Websites
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"
-    height="170"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  💻 Code • Learn • Build • Improve 🚀
-</p>
+## Contact
+- Email: mar456992@example.com  
+- LinkedIn: [Your LinkedIn Profile](ca://s?q=Create_LinkedIn_profile_for_developer)  
+- Location: Phnom Penh, Cambodia 
