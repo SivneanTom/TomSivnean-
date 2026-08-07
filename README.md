@@ -1,12 +1,11 @@
-# Hi there 👋 I'm Tom Sivnean
+# 🚀 Backend Portfolio Project
 
-Welcome to my GitHub profile!  
-I'm passionate about **Backend Development** using Spring Boot, Laravel, PostgreSQL, and Docker.  
-I love building APIs, exploring database design, and solving coding challenges.
+This repository showcases my backend development skills using **Spring Boot**, **Laravel**, **PostgreSQL**, and **Docker**.  
+I enjoy building APIs, designing databases, and solving coding challenges.
 
 ---
 
-## 🚀 Skills & Technologies
+## ⚙️ Skills & Technologies
 
 ### 🖥️ Frontend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> 
@@ -35,20 +34,16 @@ I love building APIs, exploring database design, and solving coding challenges.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Project Features
 - **Spring Boot Member API** → CRUD API with PostgreSQL & Docker  
 - **Laravel Member API** → RESTful API with Authentication & PostgreSQL  
 - **Dockerized Portfolio** → Multi-service setup with Docker Compose  
 
-👉 Check out my [backend portfolio](ca://s?q=Backend_portfolio_projects) for more details.
-
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - Email: yourname@example.com  
 - LinkedIn: [Your LinkedIn Profile](ca://s?q=Create_LinkedIn_profile_for_developer)  
 - Location: Phnom Penh, Cambodia  
 
 ---
-
-⭐️ From [Tom](ca://s?q=Tom_backend_developer_profile)
