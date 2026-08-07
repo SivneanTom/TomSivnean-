@@ -1,7 +1,6 @@
-# 🚀 Backend Portfolio Project
+# 🚀 My Backend Portfolio
 
-This repository showcases my backend development skills using **Spring Boot**, **Laravel**, **PostgreSQL**, and **Docker**.  
-I enjoy building APIs, designing databases, and solving coding challenges.
+Welcome! This repo showcases my backend development skills using **Spring Boot**, **Laravel**, **PostgreSQL**, and **Docker**.
 
 ---
 
@@ -11,7 +10,6 @@ I enjoy building APIs, designing databases, and solving coding challenges.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/> 
@@ -34,7 +32,7 @@ I enjoy building APIs, designing databases, and solving coding challenges.
 
 ---
 
-## 📂 Project Features
+## 📂 Featured Projects
 - **Spring Boot Member API** → CRUD API with PostgreSQL & Docker  
 - **Laravel Member API** → RESTful API with Authentication & PostgreSQL  
 - **Dockerized Portfolio** → Multi-service setup with Docker Compose  
@@ -45,5 +43,3 @@ I enjoy building APIs, designing databases, and solving coding challenges.
 - Email: yourname@example.com  
 - LinkedIn: [Your LinkedIn Profile](ca://s?q=Create_LinkedIn_profile_for_developer)  
 - Location: Phnom Penh, Cambodia  
-
----
